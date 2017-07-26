@@ -1,4 +1,4 @@
-# laravel-vue-favorite
+# Laravel-instagram
 Create a favorite/like feature with Vuejs in Laravel application.
 
 ### Getting Started
@@ -6,13 +6,13 @@ Create a favorite/like feature with Vuejs in Laravel application.
 Clone the project repository by running the command below if you use SSH
 
 ```
-git clone git@github.com:ammezie/laravel-vue-favorite.git
+git clone https://github.com/syed-maaz/laravel-instagram.git
 ```
 
 If you use https, use this instead
 
 ```
-git clone https://github.com/ammezie/laravel-vue-favorite.git
+git clone https://github.com/syed-maaz/laravel-instagram.git
 ```
 
 After cloning,run:
